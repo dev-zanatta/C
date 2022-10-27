@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659117732 source:c:\users\zanat\desktop\prog\connect\algoritmo e estrutura de dados\lista3\lista03_ex08\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

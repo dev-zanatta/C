@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657050597 source:c:\users\zanat\desktop\prog\connect\algoritmo e estrutura de dados\lista2\lista02_ex15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
